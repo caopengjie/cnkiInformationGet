@@ -1,0 +1,1 @@
+主要依据chromedriver + Selenium 实现一个知网文章信息爬虫代码，python3环境，可下载配置运行。
